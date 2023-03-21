@@ -1,3 +1,4 @@
+# Initial Commit
 class Entry:
     def __init__(self, priority, value):
         # Sets values self._priority and self._value
